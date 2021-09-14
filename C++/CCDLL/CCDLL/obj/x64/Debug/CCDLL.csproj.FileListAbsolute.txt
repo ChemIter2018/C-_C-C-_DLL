@@ -1,0 +1,10 @@
+D:\C\CCDLL\CCDLL\CCDLL\bin\x64\Debug\CCDLL.exe.config
+D:\C\CCDLL\CCDLL\CCDLL\bin\x64\Debug\CCDLL.exe
+D:\C\CCDLL\CCDLL\CCDLL\bin\x64\Debug\CCDLL.pdb
+D:\C\CCDLL\CCDLL\CCDLL\obj\x64\Debug\CCDLL.csproj.AssemblyReference.cache
+D:\C\CCDLL\CCDLL\CCDLL\obj\x64\Debug\CCDLL.Form1.resources
+D:\C\CCDLL\CCDLL\CCDLL\obj\x64\Debug\CCDLL.Properties.Resources.resources
+D:\C\CCDLL\CCDLL\CCDLL\obj\x64\Debug\CCDLL.csproj.GenerateResource.cache
+D:\C\CCDLL\CCDLL\CCDLL\obj\x64\Debug\CCDLL.csproj.CoreCompileInputs.cache
+D:\C\CCDLL\CCDLL\CCDLL\obj\x64\Debug\CCDLL.exe
+D:\C\CCDLL\CCDLL\CCDLL\obj\x64\Debug\CCDLL.pdb
