@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\CCPLUSDLL.dir/objects.a
+C:\mingw\mingw64\bin\ar.exe cr CMakeFiles\CCPLUSDLL.dir/objects.a @CMakeFiles\CCPLUSDLL.dir\objects1.rsp
+C:\mingw\mingw64\bin\g++.exe -g -shared -o libCCPLUSDLL.dll -Wl,--out-implib,libCCPLUSDLL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\CCPLUSDLL.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\CCPLUSDLL.dir\linklibs.rsp

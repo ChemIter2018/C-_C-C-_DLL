@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C/CCPLUSDLL/library.cpp
+library.h
+D:/C/CCPLUSDLL/library.h
+iostream
+-
+
+D:/C/CCPLUSDLL/library.h
+
